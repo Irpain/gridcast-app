@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
+lightgbm
+torch              # if you still need DL models in the app
